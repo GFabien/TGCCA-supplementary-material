@@ -1,6 +1,6 @@
 # TGCCA supplementary material
 This folder contains the code to reproduce the results in the paper
-"Tensor Generalized Canonical Correlation Analysis".
+"Tensor Generalized Canonical Correlation Analysis" avaiable on arXiv: http://128.84.21.203/abs/2302.05277.
 
 Here is a brief description
 of the sub directories present in this folder:
